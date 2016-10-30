@@ -1,2 +1,2 @@
 # hello-world
-My first repository on github. My name is Himanshu Tiwari.
+This is my first repository on github. My name is Himanshu Tiwari.
